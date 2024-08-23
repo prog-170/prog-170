@@ -12,4 +12,4 @@
 
 ## Email
 
-:email: **(malto:jane@example.com)**
+:email: **[text me](mailto:jane@example.com)**
